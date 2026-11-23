@@ -1,0 +1,10 @@
+{
+  "name": "Remix KebbiCard Studio",
+  "description": "Kebbi Air 凱比機器人離線 QR Code 語音圖卡產生器、網頁模擬掃描器與 Android Nuwa SDK 專案匯出平台。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
