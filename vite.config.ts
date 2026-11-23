@@ -6,6 +6,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: './', // 讓打包後的 JS/CSS 支援 GitHub Pages 子路徑
     plugins: [
       react(),
       tailwindcss(),

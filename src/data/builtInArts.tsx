@@ -16,7 +16,7 @@ export const BUILT_IN_ARTS: BuiltInArtItem[] = [
     label: '佩佩小豬',
     category: 'starter',
     type: 'image',
-    imageSrc: '/src/assets/images/card_pink_piglet_1794995755489.jpg',
+    imageSrc: './src/assets/images/card_pink_piglet_1794995755489.jpg',
     bgTint: '#FFF1F2',
   },
   {
@@ -24,7 +24,7 @@ export const BUILT_IN_ARTS: BuiltInArtItem[] = [
     label: '加分獎牌',
     category: 'starter',
     type: 'image',
-    imageSrc: '/src/assets/images/card_add_point_1794995755627.jpg',
+    imageSrc: './src/assets/images/card_add_point_1794995755627.jpg',
     bgTint: '#FFFBEB',
   },
   {
@@ -32,7 +32,7 @@ export const BUILT_IN_ARTS: BuiltInArtItem[] = [
     label: '餅乾盤子',
     category: 'starter',
     type: 'image',
-    imageSrc: '/src/assets/images/card_cookie_1794995756488.jpg',
+    imageSrc: './src/assets/images/card_cookie_1794995756488.jpg',
     bgTint: '#ECFDF5',
   },
   {
@@ -40,7 +40,7 @@ export const BUILT_IN_ARTS: BuiltInArtItem[] = [
     label: '喝水水杯',
     category: 'starter',
     type: 'image',
-    imageSrc: '/src/assets/images/card_drink_water_1794995756266.jpg',
+    imageSrc: './src/assets/images/card_drink_water_1794995756266.jpg',
     bgTint: '#F0F9FF',
   },
   {
